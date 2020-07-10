@@ -1,4 +1,4 @@
-![野胡子](https://static.yehuzi.com/blog/yehuzi.png)
+![野胡子](https://static.yehuzi.com/blog/yehuzi1.jpeg)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=yehuzi.yehuzi)
 
