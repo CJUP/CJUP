@@ -1,4 +1,4 @@
-![野胡子](https://static.yehuzi.com/blog/apple_animation.gif)
+![野胡子](https://static.yehuzi.com/blog/family.gif)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=yehuzi.yehuzi)
 
