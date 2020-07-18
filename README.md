@@ -1,4 +1,4 @@
-![野胡子](https://static.yehuzi.com/blog/catplay.gif)
+![cat](https://github.com/heyrock/heyrock.github.io/blob/master/assets/catplay.gif)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=yehuzi.yehuzi)
 
