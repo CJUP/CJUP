@@ -1,4 +1,4 @@
-![cat](https://github.com/heyrock/heyrock.github.io/blob/master/assets/catplay.gif)
+![cat](https://heyrock.github.io/assets/catplay.gif)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=yehuzi.yehuzi)
 
