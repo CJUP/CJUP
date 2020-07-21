@@ -1,6 +1,6 @@
 ![cat](https://heyrock.github.io/assets/catplay.gif)
 
-![](https://visitor-badge.glitch.me/badge?page_id=yehuzi.yehuzi)
+![](https://visitor-badge.glitch.me/badge?page_id=heyrock.heyrock)
 
 <!--
 - 🔭 I’m currently working on ...
