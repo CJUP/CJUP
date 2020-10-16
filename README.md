@@ -1,4 +1,4 @@
-![cat](https://heyrock.github.io/assets/catplay.gif)
+![cat](https://cjup.github.io/assets/catplay.gif)
 
 <p align="center">
  <a href="https://huzizi.com"><img src="https://img.shields.io/website?color=34a853&label=Blog&style=for-the-badge&up_message=%F0%9F%93%9D&url=https%3A%2F%2Fhuzizi.com%2F" alt="Personal Blog in Chinese" /></a>
