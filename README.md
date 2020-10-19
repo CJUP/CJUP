@@ -7,7 +7,6 @@
  <a href="https://twitter.com/CJUpUp"><img src="https://img.shields.io/website?color=1ea2f1&label=twitter&style=for-the-badge&up_message=@CJUpUp&url=https%3A%2F%2Ftwitter.com%2FCJUpUp" alt="Twitter Follow" /></a>
 </p>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=heyrock.heyrock)
 
 
 <!--
