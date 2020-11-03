@@ -3,7 +3,7 @@
 <p align="center">
  <a href="https://huzizi.com"><img src="https://img.shields.io/website?color=34a853&label=Blog&style=for-the-badge&up_message=huzizi.com&url=https%3A%2F%2Fhuzizi.com%2F" alt="Personal Blog in Chinese" /></a>
  <a href="https://weibo.com/cojis"><img src="https://img.shields.io/website?color=e6172d&label=Weibo&style=for-the-badge&up_message=@%E8%83%A1%E8%87%AA%E8%87%AA&url=https%3A%2F%2Fweibo.com%2Fcojis" alt="微博" /></a>
- <a href="https://instagram.com/CJTed"><img src="https://img.shields.io/website?color=4285f4&label=Instagram&style=for-the-badge&up_message=@CJTed&url=https%3A%2F%2Fwww.instagram.com" alt="Instagram" /></a>
+ <a href="https://instagram.com/CJUpUp"><img src="https://img.shields.io/website?color=4285f4&label=Instagram&style=for-the-badge&up_message=@CJUpUp&url=https%3A%2F%2Fwww.instagram.com" alt="Instagram" /></a>
 </p>
 
 
