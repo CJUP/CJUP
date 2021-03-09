@@ -9,11 +9,10 @@
 const Hugo = {
   pronouns: "He" | "Him",
   code: [Javascript, HTML, CSS, C#, Aps.net],
-  tools: [Vue, Vuex, React, Redux, Node, Webpack, Git, Antd, Miniprogram, VSCode]
+  tools: [Vue, Vuex, React, Redux, Node, Webpack, Git, Antd, Miniprogram, VSCode],
+  wmi: "普文二奶爸・前端攻城獅・擁抱開源・推崇極簡・Apple Fans・痴迷健身房・夢想紋花臂・目標遊世界 :)"
 }
 ```
-
-<font face="黑体" color=green size=2>普文二奶爸・前端攻城獅・擁抱開源・推崇極簡・Apple Fans・痴迷健身房・夢想紋花臂・目標遊世界 :)</font>
 
 ---
 
