@@ -1,5 +1,5 @@
 
-<h2> Hi, I'm Hugo Whoo! 👋</h2>
+<h2> Hi, I'm Hugo Whoo 👋</h2>
 <img align='right' src="images/coding.gif" width="40%">
 
 
