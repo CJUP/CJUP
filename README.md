@@ -13,7 +13,7 @@ const Hugo = {
 }
 ```
 
-<em style="font-size:12px;">普文二奶爸・前端攻城獅・擁抱開源・推崇極簡・Apple Fans・痴迷健身房・夢想紋花臂・目標遊世界 :)</em>
+<font face="黑体" color=green size=2>普文二奶爸・前端攻城獅・擁抱開源・推崇極簡・Apple Fans・痴迷健身房・夢想紋花臂・目標遊世界 :)</font>
 
 ---
 
