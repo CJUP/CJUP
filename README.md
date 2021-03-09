@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Hugo Whoo! 👋</h2>
-<img align='right' src="https://i0.wp.com/i.giphy.com/media/1C8bHHJturSx2/giphy-downsized.gif?w=770&ssl=1" width="40%">
+<img align='right' src="images/coding.gif" width="40%">
 
 
 ### <img src="images/cat.gif" width="80"> A little more about me...  
@@ -13,7 +13,7 @@ const Hugo = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em style="font-size:12px;">普文二奶爸・3年前端攻城獅・4年後端程序猿・擁抱開源・推崇極簡・Apple Fans・痴迷健身房・夢想紋花臂・目標遊世界 :)</em>
 
 ---
 
