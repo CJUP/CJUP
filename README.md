@@ -1,4 +1,21 @@
-<img src="images/cat.gif" />
+
+<h2> Hi, I'm Hugo Whoo! 👋</h2>
+<img align='right' src="https://i0.wp.com/i.giphy.com/media/1C8bHHJturSx2/giphy-downsized.gif?w=770&ssl=1" width="40%">
+
+
+### <img src="images/cat.gif" width="80"> A little more about me...  
+
+```javascript
+const Hugo = {
+  pronouns: "He" | "Him",
+  code: [Javascript, HTML, CSS, C#, Aps.net],
+  tools: [Vue, Vuex, React, Redux, Node, Webpack, Git, Antd, Miniprogram, VSCode]
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
 
 <!--
 [![Blog-in-chinese](icons/blog.png)](https://www.huzizi.com/)
