@@ -8,8 +8,8 @@
 ```javascript
 const Hugo = {
   pronouns: "He" | "Him",
-  code: [Javascript, HTML, CSS, C#, Aps.net],
-  tools: [Vue, Vuex, React, Redux, Node, Webpack, Git, Antd, Miniprogram, VSCode],
+  code: [Javascript, HTML, CSS, C#, Aps.net, Miniprogram],
+  tools: [Vue, Vuex, React, Redux, Node, Webpack, Git, Antd, VSCode],
   wmi: "普文二奶爸・前端攻城獅・擁抱開源・推崇極簡・Apple Fans・痴迷健身房・夢想紋花臂・目標遊世界 :)"
 }
 ```
